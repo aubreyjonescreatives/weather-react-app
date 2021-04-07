@@ -19,7 +19,7 @@
             "saturday": "72 degrees F and sunny"
         },
         "sunday_hourly_forecast": {
-            "midnight": "60 F",
+            "zero": "60 F",
             "one": "60 F",
             "two": "61 F",
             "three": "62 F",
