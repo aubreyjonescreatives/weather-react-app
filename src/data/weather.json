@@ -1,0 +1,145 @@
+{
+
+    "results": [ 
+    {
+
+        "weatherlocation": [
+      
+            {
+        "location": "San Diego, California",
+        "farenheight": "75 degrees F", 
+        "celcius": "23.88 degrees C",
+        "seven_day_forecast": {
+            "sunday": "75 degrees F and sunny", 
+            "monday": "72 degrees F and sunny", 
+            "tuesday": "78 degrees F and sunny", 
+            "wednesday": "80 degrees F and sunny", 
+            "thursday": "75 degrees F and sunny", 
+            "friday": "70 degrees F and sunny", 
+            "saturday": "72 degrees F and sunny"
+        },
+        "sunday_hourly_forecast": {
+            "midnight": "60 F",
+            "one": "60 F",
+            "two": "61 F",
+            "three": "62 F",
+            "four": "60 F",
+            "five": "61 F",
+            "six": "62 F",
+            "seven": "61 F",
+            "eight": "62 F",
+            "nine": "65 F",
+            "ten": "68 F",
+            "eleven": "70 F",
+            "twelve": "72 F",
+            "thirteen": "74 F",
+            "fourteen": "75 F",
+            "fifteen": "75 F",
+            "sixteen": "75 F",
+            "seventeen": "73 F",
+            "eighteen": "71 F",
+            "nineteen": "70 F",
+            "twenty": "69 F",
+            "twenty_one": "68 F",
+            "twenty_two": "65 F",
+            "twenty_three": "60 F" 
+        } 
+    
+    
+       }, 
+
+
+   {
+    "location": "Salt Lake City, Utah",
+    "farenheight": "32 degrees F", 
+    "celcius": "0 degrees C",
+    "seven_day_forecast": {
+        "sunday": "28 degrees F and snowy", 
+        "monday": "31 degrees F and snowy", 
+        "tuesday": "30 degrees F and partly cloudy", 
+        "wednesday": "25 degrees F and rainy", 
+        "thursday": "28 degrees F and sunny", 
+        "friday": "25 degrees F and snowy", 
+        "saturday": "24 degrees F and snowy"
+    },
+    "sunday_hourly_forecast": {
+        "zero": "15 F",
+        "one": "16 F",
+        "two": "18 F",
+        "three": "18 F",
+        "four": "19 F",
+        "five": "19 F",
+        "six": "19 F",
+        "seven": "20 F",
+        "eight": "20 F",
+        "nine": "22 F",
+        "ten": "23 F",
+        "eleven": "24 F",
+        "twelve": "26 F",
+        "thirteen": "28 F",
+        "fourteen": "28 F",
+        "fifteen": "28 F",
+        "sixteen": "26 F",
+        "seventeen": "24 F",
+        "eighteen": "21 F",
+        "nineteen": "19 F",
+        "twenty": "18 F",
+        "twenty_one": "17 F",
+        "twenty_two": "16 F",
+        "twenty_three": "15 F" 
+    } 
+
+
+   },
+
+
+   {
+    "location": "Seattle, Washington",
+        "farenheight": "45 degrees F", 
+        "celcius": "7.22 degrees C",
+    "seven_day_forecast": {
+        "sunday": "65 degrees F and partly cloudy", 
+        "monday": "54 degrees F and rainy", 
+        "tuesday": "56 degrees F and sunny", 
+        "wednesday": "60 degrees F and cloudy", 
+        "thursday": "70 degrees and partly cloudy", 
+        "friday": "65 degrees and sunny", 
+        "saturday": "60 degrees and partly cloudy"
+    },
+    "sunday_hourly_forecast": {
+        "zero": "60 F",
+        "one": "60 F",
+        "two": "61 F",
+        "three": "62 F",
+        "four": "60 F",
+        "five": "61 F",
+        "six": "62 F",
+        "seven": "61 F",
+        "eight": "62 F",
+        "nine": "63 F",
+        "ten": "63 F",
+        "eleven": "63 F",
+        "twelve": "65 F",
+        "thirteen": "65 F",
+        "fourteen": "65 F",
+        "fifteen": "65 F",
+        "sixteen": "64 F",
+        "seventeen": "62 F",
+        "eighteen": "61 F",
+        "nineteen": "59 F",
+        "twenty": "59 F",
+        "twenty_one": "58 F",
+        "twenty_two": "58 F",
+        "twenty_three": "58 F" 
+    } 
+
+
+   }
+
+        ]
+    }
+
+]
+
+
+}

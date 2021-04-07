@@ -1,0 +1,15 @@
+
+
+const [weatherData, setWeatherData] = useState({
+    loading: false,
+    weatherList: [],
+})
+
+
+useEffect(() => {
+    setWeatherData({loading: false, weatherList: WeatherData.weather})
+}, [])
+
+
+
+ const [weatherLocation, setweatherLocation] = useState('')
