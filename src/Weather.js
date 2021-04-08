@@ -17,10 +17,10 @@ const Weather = () => {
 return (
 
 <div>
-<h1>Weather App</h1>
+<h1 style={ {margin: '30px'}}>Weather App</h1>
 
  
-<div style={{ height: 800, width: '100%'}}>
+<div style={{ height: 800, width: '100%', margin: '30px'}}>
 <DataGrid 
 columns={[ { field: 'City', width: "200px"}, { field: 'Farenheight', width: '200px'}, { field: 'Celcius', width: '200px'}, 
 { field: 'Daily Forecast', width: '200px', hide: 'false'},  { field: 'Hourly Forecast', width: '200px', hide: 'false'} ] }
